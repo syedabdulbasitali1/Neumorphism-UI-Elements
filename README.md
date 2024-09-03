@@ -28,21 +28,21 @@ To integrate these Neumorphism UI elements into your project:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Neumorphism-UI-Elements.git
+   git clone https://github.com/syedabdulbasitali1/Neumorphism-UI-Elements.git
 
-🛠️ Explore & Customize
+## 🛠️ Explore & Customize
 Want to customize the look and feel of these elements? Dive into the code in the src/ directory, where you can adjust colors, shadows, and other properties to match your design needs.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository, submit issues, or make pull requests. See the CONTRIBUTING file for guidelines.
 
-🧑‍💻 Author
-Syed Abdul Basit Ali
+## 🧑‍💻 Author
+Syed Abdul Basit Ali:
 Frontend Developer | UI/UX Designer
 
-🌟 Show Your Support
+## 🌟 Show Your Support
 If you like this project, please give it a ⭐️ on GitHub!
 
