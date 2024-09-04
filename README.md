@@ -12,8 +12,8 @@ Neumorphism, also known as soft UI, combines the simplicity of flat design with 
 Here’s a sneak peek of what you can create with these Neumorphism UI elements:
 
 <!-- Replace with screenshots of your UI elements -->
-![Light Mode Preview](/Neumorphism-UI-elements-images/Neumorphism-Light-Mode.PNG)
-![Dark Mode Preview](/Neumorphism-UI-elements-images/Neumorphism-Light-Mode.PNG)
+![Light Mode Preview](/neumorphism-preview-images/Neumorphism-Light-Mode.PNG)
+![Dark Mode Preview](/neumorphism-preview-images/Neumorphism-Light-Mode.PNG)
 
 
 ## 🎯 Features
