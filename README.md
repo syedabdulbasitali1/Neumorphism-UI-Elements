@@ -13,7 +13,7 @@ Here’s a sneak peek of what you can create with these Neumorphism UI elements:
 
 <!-- Replace with screenshots of your UI elements -->
 ![Light Mode Preview](/neumorphism-preview-images/Neumorphism-Light-Mode.PNG)
-![Dark Mode Preview](/neumorphism-preview-images/Neumorphism-Light-Mode.PNG)
+![Dark Mode Preview](/neumorphism-preview-images/Neumorphism-Dark-Mode.PNG)
 
 
 ## 🎯 Features
